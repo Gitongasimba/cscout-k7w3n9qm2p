@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:[Detour · Paris] Lone Star Le Mans
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:b39a5d79-c871-559e-b649-bac81fe7eaf2
 DESCRIPTION:Parsed from wec feed\; venue matched le_mans.\nhttps://www.fia
  wec.com/
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:[Detour] WEC — Lone Star Le Mans
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:5a530bab-88f5-5366-a978-b893bfbd2443
 DESCRIPTION:FIA WEC round. Named marquee endurance race\; always publish.
  \nhttps://www.fiawec.com/
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:[Detour] IMSA — Battle on the Bricks
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:9eff236d-28ef-57c3-b3a3-8a3b0d151400
 DESCRIPTION:IMSA WeatherTech round. Named marquee\; stretch band is off so
   this is Detour\, not NYC drive.\nhttps://www.imsa.com/weathertech/weather
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:[Detour] WEC — 6 Hours of Fuji
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:768573b7-02b2-5cfb-b105-e717da287141
 DESCRIPTION:FIA WEC round. Named marquee. Not same-day from Seoul.\nhttps:
  //www.fiawec.com/
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:[Detour · Paris] Motul Petit Le Mans
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:7fc7ef7b-eace-5055-8a54-73f6e91b7b44
 DESCRIPTION:Parsed from imsa feed\; venue matched le_mans.\nhttps://www.im
  sa.com/
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:[Detour] IMSA — Motul Petit Le Mans
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:f569b10f-461d-5491-a4a0-88be2f33b966
 DESCRIPTION:IMSA endurance finale. Named marquee\; not inside the NYC 2h b
  and.\nhttps://www.imsa.com/weathertech/weathertech-2026-schedule/
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:[Travel · Paris] Mondial de l'Auto
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:51288365-7075-5d81-9125-dcd892b22076
 DESCRIPTION:Official Paris motor show. Public days\; press day 12 Oct is r
  elated\, not this event.\nhttps://mondial.paris/en/practical-info
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:[Detour · Paris] WEC — 6 Hours of Barcelona
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:5f38b0e2-23f1-5521-8237-63f0c6d7a3d8
 DESCRIPTION:FIA WEC round replacing the cancelled Qatar date. Extra-night 
  from Paris.\nhttps://www.fiawec.com/
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:[Detour · Cassis] WEC — 6 Hours of Monza
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:32a7ca31-f31f-5c8e-bae1-b5b6ae597b4b
 DESCRIPTION:FIA WEC season finale. Tagged Detour · Cassis as the southern
  -Europe circuit node.\nhttps://www.fiawec.com/
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:[Auction] RM Sotheby's New York
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:6202ce2a-f783-5c60-8551-6562cba3de71
 DESCRIPTION:Allowlisted house preview in NYC.\nhttps://rmsothebys.com/
 LOCATION:Javits Center\, New York\, New York\, US
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:[Travel · Orlando] Rolex 24 at Daytona
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:95c5ad42-83c7-5e95-ae59-a18f23148afb
 DESCRIPTION:Parsed from imsa feed\; venue matched daytona.\nhttps://www.im
  sa.com/
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:[Travel · Orlando] IMSA — Rolex 24 at Daytona
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:8bed0ff6-8083-5fd9-940f-95a39e2378f6
 DESCRIPTION:IMSA season opener. Same-day from Orlando (~1h)\, not Detour.
  \nhttps://www.daytonainternationalspeedway.com/events/rolex24-at-daytona/
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:[Travel · Paris] Rétromobile
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270208
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:3005d9e3-7f74-58d9-aa8a-1365414ed284
 DESCRIPTION:Prototype classic salon. In-city Paris circuit event.\nhttps:/
  /www.retromobile.com/en/pratical-info/dates-access-map
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:[Auto show] New York International Auto Show
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270405
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:62f9820f-4f22-57db-9d50-2f686f831c5d
 DESCRIPTION:Official major motor show at home. Public days.\nhttps://www.a
  utoshowny.com/plan-your-visit/
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:[Detour · Paris] 6 Hours of Spa-Francorchamps
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:b59985af-e378-5390-ab73-373603982906
 DESCRIPTION:Parsed from wec feed\; venue matched spa.\nhttps://www.fiawec.
  com/
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:[Detour · Paris] WEC — 6 Hours of Spa-Francorchamps
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270516
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:4e27a27f-7ef4-51a5-964b-9b59ca09fce1
 DESCRIPTION:FIA WEC round. Extra-night from Paris.\nhttps://www.fiawec.com
  /
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:[Detour · Nairobi] Rhino Charge
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:844ddfe3-10e3-5fe5-84a4-3119534c3737
 DESCRIPTION:Named Kenya event. Bush venue overnight — Detour · Nairobi.
   Late grid is not a reason to omit.\nhttps://rhinocharge.co.ke/
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:[Detour · Paris] 24 Hours of Le Mans
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270614
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:20a3f3fc-f12b-56cf-8702-184a886521d0
 DESCRIPTION:The endurance event. Overnight stay from Paris — Detour\, no
  t same-day.\nhttps://www.24h-lemans.com/
@@ -227,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:[Travel · Nairobi] East African Safari Classic Rally
 DTSTART;VALUE=DATE:20271203
 DTEND;VALUE=DATE:20271212
-DTSTAMP:20260903T200932Z
+DTSTAMP:20260904T143712Z
 UID:f7501492-6c70-5175-bd45-ae8c24abda3d
 DESCRIPTION:Prototype classic rally. Span the published dates. Travel · N
  airobi even when stages leave the city.\nhttps://www.eastafricansafarirall
